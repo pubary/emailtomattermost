@@ -1,0 +1,7 @@
+*__pycache__
+/venv/
+/em-venv/
+/.idea/
+/.env
+mail_uids.txt
+emailtomattermost.log
